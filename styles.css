@@ -1,0 +1,190 @@
+body {
+  font-family: "Merriweather Sans", sans-serif;
+  text-align: center;
+  color: blanchedalmond;
+  margin: 0;
+  line-height: 200%;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 6px;
+  border-color: grey;
+}
+
+.fetju {
+  color: rgb(229, 207, 173);
+}
+
+.topcontainer {
+  padding-bottom: 20px;
+}
+.moon {
+  height: 600px;
+  position: relative;
+  right: 50px;
+}
+
+.intro1 {
+  font-size: 70px;
+
+  width: 20%;
+  margin: 0 auto 0 auto;
+
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: normal;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-family: "Merriweather Sans", sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+.bottomcloud {
+  position: relative;
+  right: -30px;
+  bottom: 500px;
+  height: 105px;
+}
+
+.topcloud {
+  position: relative;
+  left: 250px;
+  height: 150px;
+}
+
+.pfp {
+  height: 200px;
+  border-radius: 300px;
+}
+.middlecontainer {
+  background-color: #30475e;
+  padding-bottom: 0px;
+  padding-top: 30 px;
+}
+.bottomcontainer {
+  background-color: #000000;
+}
+
+.footer-link {
+  color: rgb(229, 207, 173);
+  margin: 10px 20px ;
+  text-decoration: none;
+}
+
+.footer-link:hover{color: grey;}
+
+.copy {
+  color: rgb(229, 207, 173);
+  margin: 0 auto 0 auto;
+  font-size: 0.75em;
+  padding: 20px 0px;
+}
+.btn {
+  color: rgb(229, 207, 173);
+}
+
+.topcontainer {
+  background-color: #30475e;
+}
+
+.skillrow {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contactme {
+  width: 50%;
+  margin: 20px auto 20px auto;
+}
+
+.topcontainer {
+  padding-top: 50px;
+}
+
+.draw {
+  color: rgb(229, 207, 173);
+  border-radius: 70px;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.webdev {
+  border-radius: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.content {
+  border-radius: 80px;
+  width: 35%;
+  float: right;
+  margin-left: 50px;
+}
+
+.speech {
+  border-radius: 200px;
+  width: 35%;
+  float: left;
+  margin-right: 50px;
+}
+
+.ai {
+  border-radius: 200px;
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.intro2 {
+  font-size: 1.1rem;
+}
+
+.bottomcontainer {
+  padding-top: 10px;
+}
+
+.getintouch {
+  margin-top: 0 auto 0 auto;
+}
+
+.copy {
+  padding-bottom: 16;
+}
+
+.academics {
+  width: 50%;
+  margin: 100px auto 20px auto;
+  text-align: left;
+}
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: "Merriweather Sans", sans-serif;
+  color: #000000;
+  font-size: 21px;
+  background: blanchedalmond;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+  margin: 10 auto 10 auto;
+}
+
+.btn:hover {
+  background: #aebac2;
+  text-decoration: none;
+}
